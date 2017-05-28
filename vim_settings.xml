@@ -6,11 +6,11 @@
       <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/util/Jenni.java" timestamp="1494968612046">
         <mark key="[" line="2" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew/src/main/resources/log4j.xml" timestamp="1495383086949">
+      <file name="$USER_HOME$/dev/pitcrew/src/main/resources/log4j.xml" timestamp="1495989839403">
         <mark key="'" line="45" column="0" />
-        <mark key="[" line="111" column="25" />
-        <mark key="]" line="111" column="25" />
-        <mark key="." line="111" column="25" />
+        <mark key="[" line="82" column="22" />
+        <mark key="]" line="82" column="22" />
+        <mark key="." line="82" column="22" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/entity/util/submission/AssetSubmission.java" timestamp="1495638365642">
         <mark key="[" line="37" column="0" />
@@ -25,24 +25,31 @@
       <file name="$USER_HOME$/dev/pitcrew/projDump3000.sh" timestamp="1495381842065">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/ui/production/ReportAction.java" timestamp="1495989417810" />
       <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/util/DBlaster.java" timestamp="1495842064009">
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495987235754">
+      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/dao/projection/PhaseProjection.java" timestamp="1495989967811" />
+      <file name="/Dummy.txt" timestamp="1495989932734">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/ui/enums/ReportColumnType.java" timestamp="1495986696297" />
+      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/dao/hibernate/HibernatePhaseDAO.java" timestamp="1495989463513">
+        <mark key="[" line="2276" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/util/AppendToFile.java" timestamp="1495150758563">
         <mark key="[" line="10" column="44" />
         <mark key="]" line="10" column="44" />
         <mark key="." line="10" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/dao/projection/ProjectDirectorPhaseProjection.java" timestamp="1495989535510" />
       <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/dao/hibernate/HibernateAnnouncementDAO.java" timestamp="1494970581764">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/dao/projection/ManagerPhaseProjection.java" timestamp="1495989518441" />
       <file name="$USER_HOME$/dev/pitcrew/src/main/webapp/WEB-INF/jsp/production/report/reportRowTitle.jspx" timestamp="1495639215553">
         <mark key="[" line="157" column="78" />
       </file>
@@ -65,7 +72,7 @@
       <file name="$USER_HOME$/dev/pitcrew/src/main/webapp/WEB-INF/jsp/production/report/report.jspx" timestamp="1495987166474">
         <mark key="[" line="83" column="36" />
       </file>
-      <file name="/fragment.java" timestamp="1495986574218">
+      <file name="/fragment.java" timestamp="1495989993729">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -81,8 +88,8 @@
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBnZXRBbGxQcm9qZWN0cygpIHsKICAgICAgICBDcml0ZXJpYSBjcml0ZXJpYSA9IHNmLm9wZW5TZXNzaW9uKCkuY3JlYXRlQ3JpdGVyaWEoUHJvamVjdC5jbGFzcyk7CiAgICAgICAgY3JpdGVyaWEuYWRkKFJlc3RyaWN0aW9ucy5lcSgiYXJjaGl2ZWQiLCBmYWxzZSkpOwogICAgICAgIGNyaXRlcmlhLmFkZE9yZGVyKE9yZGVyLmFzYygibmFtZSIpKTsKCiAgICAgICAgTGlzdCBsaXN0ID0gY3JpdGVyaWEubGlzdCgpOwoKICAgICAgICBmb3IgKE9iamVjdCBvIDogbGlzdCkgewogICAgICAgICAgICBIaWJlcm5hdGVQcm9qZWN0IHByb2ogPSAoSGliZXJuYXRlUHJvamVjdCkgbzsKICAgICAgICAgICAgcHJvai5nZXRBc3NldHMoKTsKICAgICAgICAgICAgd3JpdGVPdXQocHJvai5nZXROYW1lKCkpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBnZXRBbGxQcm9qZWN0cygpIHsKICAgICAgICBDcml0ZXJpYSBjcml0ZXJpYSA9IHNmLm9wZW5TZXNzaW9uKCkuY3JlYXRlQ3JpdGVyaWEoUHJvamVjdC5jbGFzcyk7CiAgICAgICAgY3JpdGVyaWEuYWRkKFJlc3RyaWN0aW9ucy5lcSgiYXJjaGl2ZWQiLCBmYWxzZSkpOwogICAgICAgIGNyaXRlcmlhLmFkZE9yZGVyKE9yZGVyLmFzYygibmFtZSIpKTsKCiAgICAgICAgTGlzdCBsaXN0ID0gY3JpdGVyaWEubGlzdCgpOwoKICAgICAgICBmb3IgKE9iamVjdCBvIDogbGlzdCkgewogICAgICAgICAgICBIaWJlcm5hdGVQcm9qZWN0IHByb2ogPSAoSGliZXJuYXRlUHJvamVjdCkgbzsKICAgICAgICAgICAgcHJvai5nZXRBc3NldHMoKTsKICAgICAgICAgICAgd3JpdGVPdXQocHJvai5nZXROYW1lKCkpOwogICAgICAgIH0KICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>error</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBwcmludFBoYXNlVGVtcGxhdGVzKEhpYmVybmF0ZVByb2plY3QgcHJvamVjdCkgewogICAgICAgIFNvcnRlZFNldDxQaGFzZVRlbXBsYXRlPiBwaGFzZVRlbXBsYXRlcyA9IHByb2plY3QuZ2V0UGhhc2VUZW1wbGF0ZXMoKTsKICAgICAgICBpbnQgaSA9IDE7CiAgICAgICAgZm9yIChQaGFzZVRlbXBsYXRlIHB0IDogcGhhc2VUZW1wbGF0ZXMpIHsKICAgICAgICAgICAgaW50IHJhbmRvID0gcmFuZEludCgwLCAxMDApOwogICAgICAgICAgICBpKys7CiAgICAgICAgICAgIFN0cmluZyBjcmVhdGVQVCA9ICJwdCIgKyBpICsgIiA9IFBoYXNlVGVtcGxhdGUuY3JlYXRlKHBoYXNlX3R5cGU6ICdQcm9kdWN0aW9uJyxcbiIgKwogICAgICAgICAgICAgICAgICAgICIgIG5hbWU6ICciICsgcHQuZ2V0TmFtZSgpICsgIicsXG4iICsKICAgICAgICAgICAgICAgICAgICAiICBwaGFzZV9vcmRlcjogIiArIHJhbmRvICsgIixcbiIgKwogICAgICAgICAgICAgICAgICAgICIgIHByb2plY3Q6IHByb2plY3RcbiIgKwogICAgICAgICAgICAgICAgICAgICIpIjsKICAgICAgICAgICAgd3JpdGVPdXQoY3JlYXRlUFQpOwogICAgICAgIH0KICAgIH0K</text>
@@ -123,7 +130,7 @@
         printPostamble();</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>error</text>
       </register>
     </registers>
     <search>
