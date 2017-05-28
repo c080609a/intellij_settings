@@ -1,0 +1,19 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="hub3">
+      <typing text-keycode="">standar</typing>
+      <action id="$Undo" />
+      <action id="Replace" />
+      <action id="Replace" />
+      <action id="EditorLineEnd" />
+      <action id="EditorTextEnd" />
+      <action id="Replace" />
+      <action id="Replace" />
+    </macro>
+    <macro name="clear-console" />
+    <macro name="switch-slashes">
+      <action id="Replace" />
+      <typing text-keycode="">\\/</typing>
+    </macro>
+  </component>
+</application>

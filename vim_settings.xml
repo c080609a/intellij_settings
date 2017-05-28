@@ -1,0 +1,153 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/util/Jenni.java" timestamp="1494968612046">
+        <mark key="[" line="2" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/resources/log4j.xml" timestamp="1495383086949">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="111" column="25" />
+        <mark key="]" line="111" column="25" />
+        <mark key="." line="111" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/entity/util/submission/AssetSubmission.java" timestamp="1495638365642">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/util/Sprung.java" timestamp="1495841904596">
+        <mark key="[" line="72" column="24" />
+        <mark key="]" line="74" column="0" />
+        <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/resources/config/spring/yarboil.xml" timestamp="1494970252102">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew/projDump3000.sh" timestamp="1495381842065">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/util/DBlaster.java" timestamp="1495842064009">
+        <mark key="]" line="98" column="0" />
+        <mark key="." line="98" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1495986696962">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/util/ServerProperties.java" timestamp="1494970141983">
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="50" column="35" />
+        <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/ui/enums/ReportColumnType.java" timestamp="1495986696297" />
+      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/util/AppendToFile.java" timestamp="1495150758563">
+        <mark key="[" line="10" column="44" />
+        <mark key="]" line="10" column="44" />
+        <mark key="." line="10" column="44" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/dao/hibernate/HibernateAnnouncementDAO.java" timestamp="1494970581764">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="44" column="0" />
+        <mark key="." line="44" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/webapp/WEB-INF/jsp/production/report/reportRowTitle.jspx" timestamp="1495639215553">
+        <mark key="[" line="157" column="78" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/dao/hibernate/HibernateProjectDAO.java" timestamp="1494973416680">
+        <mark key="[" line="75" column="56" />
+        <mark key="]" line="75" column="56" />
+        <mark key="." line="75" column="56" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/resources/config/spring/jdbc.properties" timestamp="1494971173448">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="23" />
+        <mark key="^" line="12" column="66" />
+        <mark key="." line="13" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/webapp/WEB-INF/web.xml" timestamp="1494965064978">
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/test/resources/config/jndi.properties" timestamp="1494971183068">
+        <mark key="[" line="12" column="59" />
+      </file>
+      <file name="/fragment.java" timestamp="1495986574218">
+        <mark key="[" line="0" column="0" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="81" column="0" filename="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/util/Application.java" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/pitcrew/src/main/resources/log4j.xml" />
+      <jump line="45" column="0" filename="$USER_HOME$/dev/pitcrew/src/main/resources/log4j.xml" />
+    </jumps>
+    <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIDxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aDpjb25maWcvc3ByaW5nL3NlY3VyaXR5LnhtbCIgLz4K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBnZXRBbGxQcm9qZWN0cygpIHsKICAgICAgICBDcml0ZXJpYSBjcml0ZXJpYSA9IHNmLm9wZW5TZXNzaW9uKCkuY3JlYXRlQ3JpdGVyaWEoUHJvamVjdC5jbGFzcyk7CiAgICAgICAgY3JpdGVyaWEuYWRkKFJlc3RyaWN0aW9ucy5lcSgiYXJjaGl2ZWQiLCBmYWxzZSkpOwogICAgICAgIGNyaXRlcmlhLmFkZE9yZGVyKE9yZGVyLmFzYygibmFtZSIpKTsKCiAgICAgICAgTGlzdCBsaXN0ID0gY3JpdGVyaWEubGlzdCgpOwoKICAgICAgICBmb3IgKE9iamVjdCBvIDogbGlzdCkgewogICAgICAgICAgICBIaWJlcm5hdGVQcm9qZWN0IHByb2ogPSAoSGliZXJuYXRlUHJvamVjdCkgbzsKICAgICAgICAgICAgcHJvai5nZXRBc3NldHMoKTsKICAgICAgICAgICAgd3JpdGVPdXQocHJvai5nZXROYW1lKCkpOwogICAgICAgIH0KICAgIH0K</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBnZXRBbGxQcm9qZWN0cygpIHsKICAgICAgICBDcml0ZXJpYSBjcml0ZXJpYSA9IHNmLm9wZW5TZXNzaW9uKCkuY3JlYXRlQ3JpdGVyaWEoUHJvamVjdC5jbGFzcyk7CiAgICAgICAgY3JpdGVyaWEuYWRkKFJlc3RyaWN0aW9ucy5lcSgiYXJjaGl2ZWQiLCBmYWxzZSkpOwogICAgICAgIGNyaXRlcmlhLmFkZE9yZGVyKE9yZGVyLmFzYygibmFtZSIpKTsKCiAgICAgICAgTGlzdCBsaXN0ID0gY3JpdGVyaWEubGlzdCgpOwoKICAgICAgICBmb3IgKE9iamVjdCBvIDogbGlzdCkgewogICAgICAgICAgICBIaWJlcm5hdGVQcm9qZWN0IHByb2ogPSAoSGliZXJuYXRlUHJvamVjdCkgbzsKICAgICAgICAgICAgcHJvai5nZXRBc3NldHMoKTsKICAgICAgICAgICAgd3JpdGVPdXQocHJvai5nZXROYW1lKCkpOwogICAgICAgIH0KICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBwcmludFBoYXNlVGVtcGxhdGVzKEhpYmVybmF0ZVByb2plY3QgcHJvamVjdCkgewogICAgICAgIFNvcnRlZFNldDxQaGFzZVRlbXBsYXRlPiBwaGFzZVRlbXBsYXRlcyA9IHByb2plY3QuZ2V0UGhhc2VUZW1wbGF0ZXMoKTsKICAgICAgICBpbnQgaSA9IDE7CiAgICAgICAgZm9yIChQaGFzZVRlbXBsYXRlIHB0IDogcGhhc2VUZW1wbGF0ZXMpIHsKICAgICAgICAgICAgaW50IHJhbmRvID0gcmFuZEludCgwLCAxMDApOwogICAgICAgICAgICBpKys7CiAgICAgICAgICAgIFN0cmluZyBjcmVhdGVQVCA9ICJwdCIgKyBpICsgIiA9IFBoYXNlVGVtcGxhdGUuY3JlYXRlKHBoYXNlX3R5cGU6ICdQcm9kdWN0aW9uJyxcbiIgKwogICAgICAgICAgICAgICAgICAgICIgIG5hbWU6ICciICsgcHQuZ2V0TmFtZSgpICsgIicsXG4iICsKICAgICAgICAgICAgICAgICAgICAiICBwaGFzZV9vcmRlcjogIiArIHJhbmRvICsgIixcbiIgKwogICAgICAgICAgICAgICAgICAgICIgIHByb2plY3Q6IHByb2plY3RcbiIgKwogICAgICAgICAgICAgICAgICAgICIpIjsKICAgICAgICAgICAgd3JpdGVPdXQoY3JlYXRlUFQpOwogICAgICAgIH0KICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBwcmludERpc2NpcGxpbmVzKEhpYmVybmF0ZVByb2plY3QgcHJvamVjdCkgewogICAgICAgIFNvcnRlZFNldDxQcm9kdWN0aW9uRGlzY2lwbGluZT4gZGlzY2lwbGluZXMgPSBwcm9qZWN0LmdldFByb2R1Y3Rpb25EaXNjaXBsaW5lcygpOwogICAgICAgIGludCBpID0gMTsKICAgICAgICBmb3IgKFByb2R1Y3Rpb25EaXNjaXBsaW5lIGRpc2MgOiBkaXNjaXBsaW5lcykgewogICAgICAgICAgICBpbnQgcmFuZG8gPSByYW5kSW50KDAsIDEwMCk7CiAgICAgICAgICAgIGkrKzsKICAgICAgICAgICAgU3RyaW5nIHZhck5hbWUgPSAiZGlzYyIgKyBpOwogICAgICAgICAgICBTdHJpbmcgY3JlYXRlUFQgPSB2YXJOYW1lICsgIiA9IERpc2NpcGxpbmUuY3JlYXRlKCIgKwogICAgICAgICAgICAgICAgICAgICIgIG5hbWU6ICciICsgZGlzYy5nZXROYW1lKCkgKyAiJyxcbiIgKwogICAgICAgICAgICAgICAgICAgICIgIHByb2plY3Q6IHByb2plY3RcbiIgKwogICAgICAgICAgICAgICAgICAgICIpIjsKICAgICAgICAgICAgd3JpdGVPdXQoY3JlYXRlUFQpOwogICAgICAgICAgICBwcmludEFzc2V0cyhkaXNjLCB2YXJOYW1lKTsKICAgICAgICB9CiAgICB9Cgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBwcmludENvbW1lbnQoRGlzY3Vzc2lvbiBkaXNjdXNzaW9uLCBTdHJpbmcgaW5kZXgpIHsKICAgICAgICBTb3J0ZWRTZXQ8Q29tbWVudD4gY29tbWVudHMgPSBkaXNjdXNzaW9uLmdldENvbW1lbnRzKCk7CiAgICAgICAgaW50IGkgPSAxOwogICAgICAgIGZvciAoQ29tbWVudCBjb21tZW50IDogY29tbWVudHMpIHsKICAgICAgICAgICAgU3RyaW5nIGNyZWF0ZUNvbW1lbnQgPSAiY29tbWVudCIgKyBpICsgIiA9IENvbW1lbnQuY3JlYXRlKFxuIjsKCiAgICAgICAgICAgIGlmIChpbmRleCAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBjcmVhdGVDb21tZW50ICs9ICIgZGlzY3Vzc2lvbjogZGlzY3Vzc2lvbiIgKyBpbmRleCArICIsXG4iOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGNyZWF0ZUNvbW1lbnQgKz0KICAgICAgICAgICAgICAgICAgICAiICAgYm9keTogRmFrZXI6OkhpcHN0ZXIuc2VudGVuY2VzKDEpLmZpcnN0LFxuIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiICAgdXNlcl9pZDogVXNlci5vcmRlcihcIlJBTkRPTSgpXCIpLmZpcnN0LmlkLFxuIiArCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAiICAgcG9zdGVkOiBGYWtlcjo6RGF0ZS5iZXR3ZWVuKDIueWVhcnMuYWdvLCBEYXRlLnRvZGF5KSxcbiIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgIiAgICAgICAgd2lraV9mb3JtYXQ6IFt0cnVlLCBmYWxzZV0uc2FtcGxlXG4iICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICIgICAgICApIjsKICAgICAgICAgICAgaSsrOwogICAgICAgICAgICB3cml0ZU91dChjcmVhdGVDb21tZW50KTsKICAgICAgICB9CiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBwcmludERpc2N1c3Npb25zKEZvcnVtIGZvcnVtLCBpbnQgaW5kZXgpIHsKICAgICAgICBTb3J0ZWRTZXQ8RGlzY3Vzc2lvbj4gZGlzY3Vzc2lvbnMgPSBmb3J1bS5nZXREaXNjdXNzaW9ucygpOwogICAgICAgIGludCBpID0gMTsKICAgICAgICBmb3IgKERpc2N1c3Npb24gZGlzY3Vzc2lvbiA6IGRpc2N1c3Npb25zKSB7CiAgICAgICAgICAgIFN0cmluZyBjcmVhdGVEaXNjdXNzaW9uID0gImRpc2N1c3Npb24iICsgaSArICIgPSBEaXNjdXNzaW9uLmNyZWF0ZShcbiIgKwogICAgICAgICAgICAgICAgICAgICIgIG5hbWU6IEZha2VyOjpBcHAubmFtZSxcbiIgKwogICAgICAgICAgICAgICAgICAgICIgIGZvcnVtOiBmb3J1bSIgKyBpbmRleCArICIsXG4iOwogICAgICAgICAgICBpZiAoZGlzY3Vzc2lvbi5nZXRBc3NldCgpICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIGNyZWF0ZURpc2N1c3Npb24gKz0gIiAgYXNzZXRfaWQ6ICIgKyBkaXNjdXNzaW9uLmdldEFzc2V0KCkuZ2V0SWQoKSArICJcbiI7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgY3JlYXRlRGlzY3Vzc2lvbiArPQogICAgICAgICAgICAgICAgICAgICIgICAgICBsYXN0X3Bvc3RfZGF0ZTogRmFrZXI6OkRhdGUuYmV0d2VlbigyLnllYXJzLmFnbywgRGF0ZS50b2RheSksXG4iICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICIgIGxhc3RfcG9zdGVyX2lkOiBVc2VyLm9yZGVyKFwiUkFORE9NKClcIikuZmlyc3QuaWQsXG4iICsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICIgIGNyZWF0b3JfaWQ6IFVzZXIub3JkZXIoXCJSQU5ET00oKVwiKS5maXJzdC5pZCxcbiIgKwogICAgICAgICAgICAgICAgICAgICAgICAgICAgIiAgICApIjsKICAgICAgICAgICAgd3JpdGVPdXQoY3JlYXRlRGlzY3Vzc2lvbik7CiAgICAgICAgICAgIFN0cmluZyBkaXNjdXNzaW9uSWQgPSBudWxsOwogICAgICAgICAgICBpZiAoZGlzY3Vzc2lvbi5nZXRBc3NldCgpICE9IG51bGwpIHsKICAgICAgICAgICAgICAgIGRpc2N1c3Npb25JZCA9IFN0cmluZy52YWx1ZU9mKGRpc2N1c3Npb24uZ2V0QXNzZXQoKS5nZXRJZCgpKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBwcmludENvbW1lbnQoZGlzY3Vzc2lvbiwgZGlzY3Vzc2lvbklkKTsKICAgICAgICB9CiAgICB9Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgcHJpbnRGb3J1bXMoSGliZXJuYXRlUHJvamVjdCBwcm9qZWN0KSB7CiAgICAgICAgU29ydGVkU2V0PEZvcnVtPiBmb3J1bXMgPSBwcm9qZWN0LmdldEZvcnVtcygpOwogICAgICAgIGludCBpID0gMTsKICAgICAgICBmb3IgKEZvcnVtIGZvcnVtIDogZm9ydW1zKSB7CiAgICAgICAgICAgIFN0cmluZyBjcmVhdGVGb3J1bSA9ICJmb3J1bSIgKyBpICsgIiA9IEZvcnVtLmNyZWF0ZShcbiIgKwogICAgICAgICAgICAgICAgICAgICIgIHByb2plY3RfaWQ6IHByb2plY3QuaWQsXG4iICsKICAgICAgICAgICAgICAgICAgICAiICBuYW1lOiBGYWtlcjo6SGlwc3Rlci53b3Jkcyg0LCB0cnVlLCB0cnVlKS5qb2luKCcgJykudGl0bGVpemVcbiIgKwogICAgICAgICAgICAgICAgICAgICIgICkiOwogICAgICAgICAgICB3cml0ZU91dChjcmVhdGVGb3J1bSk7CgogICAgICAgICAgICBwcmludERpc2N1c3Npb25zKGZvcnVtLCBpKTsKICAgICAgICAgICAgaSsrOwogICAgICAgIH0KCiAgICB9Cgo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBwcmludEFzc2V0cyhQcm9kdWN0aW9uRGlzY2lwbGluZSBkaXNjaXBsaW5lLCBTdHJpbmcgdmFyTmFtZSkgewogICAgICAgIFNvcnRlZFNldDxBc3NldD4gYXNzZXRzID0gZGlzY2lwbGluZS5nZXRBc3NldHMoKTsKICAgICAgICBpbnQgaSA9IDE7CiAgICAgICAgZm9yIChBc3NldCBhc3NldCA6IGFzc2V0cykgewogICAgICAgICAgICBpbnQgcmFuZG8gPSByYW5kSW50KDAsIDEwMCk7CiAgICAgICAgICAgIGkrKzsKICAgICAgICAgICAgU3RyaW5nIGNyZWF0ZUFzc2V0ID0gImFzc2V0IiArIGkgKyAiPSBBc3NldC5jcmVhdGUoXG4iICsKICAgICAgICAgICAgICAgICAgICAiICBuYW1lOiAnIiArIGFzc2V0LmdldE5hbWUoKSArICInLFxuIiArCiAgICAgICAgICAgICAgICAgICAgIiAgZHVlX2RhdGU6IEZha2VyOjpEYXRlLmJldHdlZW4oMi55ZWFycy5hZ28sIERhdGUudG9kYXkpLFxuIiArCiAgICAgICAgICAgICAgICAgICAgIiAgcHJvamVjdDogcHJvamVjdCxcbiIgKwogICAgICAgICAgICAgICAgICAgICIgIGRpc2NpcGxpbmU6ICIgKyB2YXJOYW1lICsgIlxuIiArCiAgICAgICAgICAgICAgICAgICAgIikiOwogICAgICAgICAgICB3cml0ZU91dChjcmVhdGVBc3NldCk7CgogICAgICAgIH0KICAgIH0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBwcmludFByZWFtYmxlKCkgewogICAgICAgIFN0cmluZyBwcmVhbWJsZSA9ICJwYjEgPSBQcm9qZWN0QnVja2V0LmZpbmRfb3JfY3JlYXRlX2J5IShuYW1lOiAnUHJvamVjdHMgLSBQcm90b3R5cGUnLCBidWNrZXRfb3JkZXI6IDEwMClcbiIgKwogICAgICAgICAgICAgICAgIlByb2plY3RCdWNrZXQuZmluZF9vcl9jcmVhdGVfYnkhKG5hbWU6ICdQcm9qZWN0cyAtIEluIFByb2R1Y3Rpb24nLCBidWNrZXRfb3JkZXI6IDI1MClcbiIgKwogICAgICAgICAgICAgICAgIlByb2plY3RCdWNrZXQuZmluZF9vcl9jcmVhdGVfYnkhKG5hbWU6ICdQcm9qZWN0cyAtIENvbXBsZXRlJywgYnVja2V0X29yZGVyOiA1MDApXG4iICsKICAgICAgICAgICAgICAgICJQcm9qZWN0QnVja2V0LmZpbmRfb3JfY3JlYXRlX2J5IShuYW1lOiAnU3VwcG9ydCBGb3J1bXMnLCBidWNrZXRfb3JkZXI6IDc1MClcbiIgKwogICAgICAgICAgICAgICAgInByb2plY3QgPSBuaWxcbiIgKwogICAgICAgICAgICAgICAgIkFjdGl2ZVJlY29yZDo6QmFzZS50cmFuc2FjdGlvbiBkbyI7CiAgICAgICAgd3JpdGVPdXQocHJlYW1ibGUpOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBwcmludFBvc3RhbWJsZSgpIHsKICAgICAgICBTdHJpbmcgcG9zdGFtYmxlID0gImVuZCI7CiAgICAgICAgcG9zdGFtYmxlICs9ICJcblxucHV0cyBcIlBST0pFQ1Q6ICN7cHJvamVjdC4maWR9ID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09XCIiOwogICAgICAgIHdyaXRlT3V0KHBvc3RhbWJsZSk7CiAgICB9Cgo=</text>
+      </register>
+      <register name="9" type="4">
+        <text>System.out.println(&quot;=================================================================\n\n&quot;);
+        printPreamble();
+        String createClient = &quot;client= Client.create!(name: '&quot; + clientName + &quot;')&quot;;
+        String createProj = &quot;project = Project.create!(\n&quot; +
+                &quot;  name: '&quot; + proj.getName() + &quot;',\n&quot; +
+                &quot;  client: client,\n&quot; +
+                &quot;  project_bucket: pb1\n&quot; +
+                &quot;)&quot;;
+        writeOut(createClient);
+        writeOut(createProj);
+        printPhaseTemplates(proj);
+        printDisciplines(proj);
+        printForums(proj);
+        printSubmissions(proj);
+        printPostamble();</text>
+      </register>
+      <register name="-" type="4">
+        <text />
+      </register>
+    </registers>
+    <search>
+      <last-dir>0</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search />
+      <history-cmd />
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts />
+  </component>
+</application>

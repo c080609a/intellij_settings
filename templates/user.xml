@@ -1,0 +1,415 @@
+<templateSet group="user">
+  <template name="ah" value="&lt;a href=&quot;&quot;&gt;$END$&lt;/a&gt;" description="a href" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="aut" value="@author Yale J. Kaul" description="author javadoc" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="bar" value="byte[] $END$" description="byte array" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="boolet" value="true if the operation succeeded; false otherwise" description="return spiel for boolean javadoc" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="br" value="&lt;br /&gt;" description="br tag" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSP" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="cdata" value="&lt;![CDATA[$END$]]&gt;" description="adds CDATA section" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="cj" value="&lt;script type=&quot;text/javascript&quot;&gt; console.log(&quot;HERE IN: $END$&quot;); &lt;/script&gt;" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="true" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="cout" value="&lt;c:out value=&quot;${$END$}&quot; /&gt;" description="c:out template" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="cp" value="System.out.println(&quot;CLASSPATH:  &quot; + System.getProperty(&quot;java.class.path&quot;));" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="cs" value="&lt;link rel=&quot;stylesheet&quot; href=&quot;$END$&quot; type=&quot;text/css&quot;&gt;" description="add external css link" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSP" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="css" value="  &lt;link href=&quot;$END$&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot;/&gt;" description="Adds CSS link tag" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="dbg" value="if (DEBUG) {&#10;    $END$&#10;}" description="adds debug check" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="exit" value="System.exit(-1);" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="for" value="      for (int $var$=0; $var$ &lt; $limit$; $var$++) &#10;      {&#10;          $END$&#10;      }" description="Generic for loop" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="limit" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="hb" value="&lt;h1&gt;&lt;b&gt;$END$&lt;/b&gt;&lt;/h1&gt;" description="h1 and bold tags" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="hc" value="&lt;!-- $END$ --&gt;" description="html comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSP" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="ip" value="&lt;init-param&gt;&#10;  &lt;param-name&gt;$END$&lt;/param-name&gt;&#10;  &lt;param-value&gt;&lt;/param-value&gt;&#10;&lt;/init-param&gt;" description="init-param" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="je" value="&lt;%= $END$ %&gt;" description="JSP Expression" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="jp" value="&lt;% $END$ %&gt;" description="JSP Scriptlet" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="js" value="  &lt;script type='text/javascript'&gt;$END$&lt;/script&gt; " description="Adds JavaScript link tag- no source ref" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSP" value="true" />
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="jsf" value="&lt;%@ taglib uri=&quot;http://java.sun.com/jsf/core&quot; prefix=&quot;f&quot; %&gt;&#10;&lt;%@ taglib uri=&quot;http://java.sun.com/jsf/html&quot; prefix=&quot;h&quot; %&gt;" description="Adds JSF taglib directives" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="jss" value="  &lt;script type='text/javascript' src='$END$.js'&gt;&lt;/script&gt; " description="Adds JavaScript link tag" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="laf" value="    static {&#10;        String laf = UIManager.getSystemLookAndFeelClassName();&#10;        try {&#10;            UIManager.setLookAndFeel(laf);&#10;        } catch(Exception e) {&#10;            e.printStackTrace();&#10;&#10;        }&#10;    }" description="set look and feel in static initializer" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="lc" value="/*  $END$  */" description="line comment" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="lcc" value="/*  Modified 10-April-2006 by YJK &#10;&#10;*/" description="lcc" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="lcd" value="/* -------------------------- $END$ ---------------------------- */&#10;" description="Line comment with separator lines" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="ldb" value="log.debug(&quot;$END$&quot;);" description="logger.debug" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="lhm" value="&lt;a href=&quot;http://java.sun.com/j2se/1.4.2/docs/api/java/util/LinkedHashMap.html&quot;&gt;LinkedHashMap&lt;/a&gt;" description="javadoc link for LinkedHashMap" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+    </context>
+  </template>
+  <template name="log" value="Logger logger = Logger.getRootLogger();&#10;" description="do the logger spiel" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="main" value="public static void main(String[] args){&#10;  $END$&#10;}" description="main method" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="msg" value="javax.swing.JOptionPane.showConfirmDialog(null, $END$);" description="JOptionPane" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="mysql" value="    public static java.sql.Connection elConnecto() {&#10;        java.sql.Connection connection = null;&#10;        try {&#10;            String driverName = &quot;com.mysql.jdbc.Driver&quot;;&#10;            Class.forName(driverName);&#10;            String serverName = &quot;localhost&quot;;&#10;            String db = &quot;uberstore_dev&quot;;&#10;            String url = &quot;jdbc:mysql://&quot; + serverName + &quot;/&quot; + db;&#10;            String username = &quot;root&quot;;&#10;            String password = &quot;yale&quot;;&#10;            connection = DriverManager.getConnection(url, username, password);&#10;        } catch (ClassNotFoundException e) {&#10;            System.out.println(&quot;no driver&quot;);&#10;            e.printStackTrace();&#10;        } catch (SQLException e) {&#10;            System.out.println(&quot;no connecto&quot;);&#10;            e.printStackTrace();&#10;        }&#10;        return connection;&#10;    }" description="method for connecting to MySQL" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="n" value="= null$END$" description="= null;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="nc" value="if ($EXPR$==null) {&#10;   $END$&#10;}" description="Adds a null check without NPE" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;Object&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="ncheck" value="if ($EXPR$==null) {&#10;    throw new NullPointerException(&quot;$EXPR$&quot;);&#10;    }" description="Adds a null check" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;Object&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="nnc" value="if ($EXPR$ != null) {&#10;   $END$&#10;}" description="Adds a not null check without NPE" toReformat="true" toShortenFQNames="true">
+    <variable name="EXPR" expression="variableOfType(&quot;Object&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="path" value="System.out.println(&quot;PATH:  &quot; + System.getProperty(&quot;java.library.path&quot;));" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="pn" value="println($EXPR$)" description="Groovy println" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="pp" value="println " description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+    </context>
+  </template>
+  <template name="psb" value="public static boolean " description="public static boolean" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="psv" value="public static void " description="public static void" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="qv" value="String sql = &quot;&quot;;&#10;&#10;java.sql.Connection conn = null;&#10;java.sql.Statement st = conn.createStatement();&#10;java.sql.ResultSet rs = st.executeQuery(sql);&#10;&#10;while(rs.next()) {&#10;    $END$&#10;}&#10;&#10;// now be sure to close that shit&#10;// finally {&#10;&#10;// }&#10;" description="query variables for JDBC" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="rpe" value="        Enumeration en = request.getParameterNames();&#10;        while (en.hasMoreElements()) {&#10;            Object o = en.nextElement();&#10;            System.out.println(o);$END$&#10;        }&#10;" description="Show request parameters in enumeration" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="rsl" value="while (rs.next()) {&#10;    $END$&#10;}" description="resultset loop" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="sb" value="&lt;%@ taglib uri=&quot;http://jakarta.apache.org/struts/tags-bean&quot; prefix=&quot;bean&quot; %&gt;" description="Struts bean taglib reference" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="sh" value="&lt;%@ taglib uri=&quot;http://jakarta.apache.org/struts/tags-html&quot; prefix=&quot;html&quot; %&gt;" description="Struts HTML taglib reference" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="sl" value="&lt;%@ taglib uri=&quot;http://jakarta.apache.org/struts/tags-logic&quot; prefix=&quot;logic&quot; %&gt;" description="Struts logic  taglib reference" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="smap" value="&lt;servlet-mapping&gt;&#10;    &lt;servlet-name&gt;$END$&lt;/servlet-name&gt;&#10;    &lt;url-pattern&gt;&lt;/url-pattern&gt;&#10;&lt;/servlet-mapping&gt;" description="Servlet Mapping" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="soutf" value="System.out.printf(&quot;$END$&quot;);" description="printf" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="souts" value="System.out.println(&quot;$END$&quot;);" description="System.out with quotes" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="soutw" value="System.out.println(&quot;[$END$]&quot; + )" shortcut="SPACE" description="System.out" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="swing" value="public static void main(String[] args) {&#10;    SwingUtilities.invokeLater(new Runnable() { public void run() {&#10;        JPanel panel = new JPanel(new BorderLayout());&#10;        $FOCUS$&#10;&#10;        JFrame frame = new JFrame();&#10;        frame.getContentPane().add(panel);&#10;        frame.pack();&#10;        frame.setLocationRelativeTo(null);&#10;        frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);&#10;        frame.setVisible(true);&#10;    }});&#10;}" description="Swing skeleton" toReformat="false" toShortenFQNames="true">
+    <variable name="FOCUS" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="time" value="$DATE$" description="adds timestamp wherever" toReformat="false" toShortenFQNames="true">
+    <variable name="DATE" expression="date() + time()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="tl" value="&lt;%@ taglib prefix=&quot;$INDEX$&quot; uri=&quot;$INDEX2$&quot; %&gt;$END$" description="Adds a blank taglib definition" toReformat="false" toShortenFQNames="true">
+    <variable name="INDEX" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="INDEX2" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="true" />
+    </context>
+  </template>
+  <template name="user" value="System.out.println(&quot;USERDIR:  &quot; + System.getProperty(&quot;user.dir&quot;));" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+  <template name="wf" value="&lt;welcome-file-list&gt;&#10;    &lt;welcome-file&gt;$END$&lt;/welcome-file&gt;&#10;&lt;/welcome-file-list&gt;" description="welcome-file" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="XML" value="true" />
+    </context>
+  </template>
+  <template name="yjk" value="/*  YJK  */ &#10;&#10;&#10;/* END YJK */&#10;" description="yjk" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="COMPLETION" value="false" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_COMMENT" value="false" />
+      <option name="JAVA_STRING" value="false" />
+    </context>
+  </template>
+</templateSet>

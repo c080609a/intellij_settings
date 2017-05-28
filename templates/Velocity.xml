@@ -1,0 +1,56 @@
+<templateSet group="Velocity">
+  <template name="#ifelseif" value="#if ($EXPR$)&#10;  $END$&#10;#elseif ($EXPR$)&#10;#end" shortcut="SPACE" description="Velocity if/elseif" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="#parse" value="#parse ($NAME$)" shortcut="SPACE" description="Velocity parse" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+    </context>
+  </template>
+  <template name="foreach" value="#foreach ($$$ITEM$ in $$$ITERATOR$)&#10;  $END$&#10;#end" shortcut="TAB" description="Velocity foreach" toReformat="false" toShortenFQNames="true">
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="ITERATOR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="ifelse" value="#if ($EXPR$)&#10;  $END$&#10;#else&#10;#end" shortcut="TAB" description="Velocity if/else" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="vif" value="#if ($EXPR$)&#10;  $END$&#10;#end" shortcut="TAB" description="Velocity if" toReformat="false" toShortenFQNames="true">
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="vinclude" value="#include ($NAME$)" shortcut="TAB" description="Velocity include" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="vset" value="#set ($$$PROPERTY$ = $EXPR$)" shortcut="TAB" description="Velocity set" toReformat="false" toShortenFQNames="true">
+    <variable name="PROPERTY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="EXPR" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSP" value="false" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

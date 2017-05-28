@@ -1,0 +1,8 @@
+<application>
+  <component name="UsageViewSettings">
+    <option name="filterDuplicatedLine" value="true" />
+    <option name="EXPORT_FILE_NAME" value="$PROJECT_DIR$/report.txt" />
+    <option name="IS_FILTER_DUPLICATED_LINE" value="true" />
+    <option name="PREVIEW_USAGES_SPLITTER_PROPORTIONS" value="0.7084746" />
+  </component>
+</application>
