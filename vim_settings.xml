@@ -22,12 +22,6 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew/src/main/resources/config/spring/yarboil.xml" timestamp="1494970252102">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="9" column="3" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/pitcrew/projDump3000.sh" timestamp="1495381842065">
         <mark key="[" line="0" column="0" />
       </file>
@@ -35,14 +29,8 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1495986696962">
+      <file name="/Dummy.txt" timestamp="1495987235754">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/util/ServerProperties.java" timestamp="1494970141983">
-        <mark key="[" line="37" column="17" />
-        <mark key="]" line="35" column="0" />
-        <mark key="^" line="50" column="35" />
-        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/ui/enums/ReportColumnType.java" timestamp="1495986696297" />
       <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/util/AppendToFile.java" timestamp="1495150758563">
@@ -63,11 +51,8 @@
         <mark key="]" line="75" column="56" />
         <mark key="." line="75" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew/src/main/resources/config/spring/jdbc.properties" timestamp="1494971173448">
-        <mark key="[" line="13" column="23" />
-        <mark key="]" line="13" column="23" />
-        <mark key="^" line="12" column="66" />
-        <mark key="." line="13" column="23" />
+      <file name="$USER_HOME$/dev/pitcrew/src/main/webapp/WEB-INF/jsp/production/report/reportRow.jspx" timestamp="1495987436646">
+        <mark key="[" line="549" column="79" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew/src/main/webapp/WEB-INF/web.xml" timestamp="1494965064978">
         <mark key="[" line="19" column="12" />
@@ -76,6 +61,9 @@
       </file>
       <file name="$USER_HOME$/dev/pitcrew/src/test/resources/config/jndi.properties" timestamp="1494971183068">
         <mark key="[" line="12" column="59" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/webapp/WEB-INF/jsp/production/report/report.jspx" timestamp="1495987166474">
+        <mark key="[" line="83" column="36" />
       </file>
       <file name="/fragment.java" timestamp="1495986574218">
         <mark key="[" line="0" column="0" />
