@@ -42,7 +42,7 @@
         <mark key="." line="98" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/dao/projection/PhaseProjection.java" timestamp="1495990968085" />
-      <file name="/Dummy.txt" timestamp="1495991290846">
+      <file name="/Dummy.txt" timestamp="1495993265758">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/util/ServerProperties.java" timestamp="1494970141983">
@@ -75,11 +75,11 @@
         <mark key="]" line="75" column="56" />
         <mark key="." line="75" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew/src/main/resources/config/spring/jdbc.properties" timestamp="1495991318520">
-        <mark key="[" line="5" column="44" />
-        <mark key="]" line="5" column="45" />
-        <mark key="^" line="12" column="66" />
-        <mark key="." line="5" column="45" />
+      <file name="$USER_HOME$/dev/pitcrew/src/main/resources/config/spring/jdbc.properties" timestamp="1495993656872">
+        <mark key="[" line="7" column="45" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew/src/main/webapp/WEB-INF/jsp/production/report/reportRow.jspx" timestamp="1495987436646">
         <mark key="[" line="549" column="79" />
@@ -109,13 +109,13 @@
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxpbXBvcnQgcmVzb3VyY2U9ImNsYXNzcGF0aDpjb25maWcvc3ByaW5nL3NlY3VyaXR5LnhtbCIgLz4K</text>
+        <text encoding="base64">amRiYy5kcml2ZXI9Y29tLm15c3FsLmpkYmMuRHJpdmVyCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBnZXRBbGxQcm9qZWN0cygpIHsKICAgICAgICBDcml0ZXJpYSBjcml0ZXJpYSA9IHNmLm9wZW5TZXNzaW9uKCkuY3JlYXRlQ3JpdGVyaWEoUHJvamVjdC5jbGFzcyk7CiAgICAgICAgY3JpdGVyaWEuYWRkKFJlc3RyaWN0aW9ucy5lcSgiYXJjaGl2ZWQiLCBmYWxzZSkpOwogICAgICAgIGNyaXRlcmlhLmFkZE9yZGVyKE9yZGVyLmFzYygibmFtZSIpKTsKCiAgICAgICAgTGlzdCBsaXN0ID0gY3JpdGVyaWEubGlzdCgpOwoKICAgICAgICBmb3IgKE9iamVjdCBvIDogbGlzdCkgewogICAgICAgICAgICBIaWJlcm5hdGVQcm9qZWN0IHByb2ogPSAoSGliZXJuYXRlUHJvamVjdCkgbzsKICAgICAgICAgICAgcHJvai5nZXRBc3NldHMoKTsKICAgICAgICAgICAgd3JpdGVPdXQocHJvai5nZXROYW1lKCkpOwogICAgICAgIH0KICAgIH0K</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>error</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">amRiYy5kcml2ZXI9Y29tLm15c3FsLmpkYmMuRHJpdmVyCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgdm9pZCBwcmludFBoYXNlVGVtcGxhdGVzKEhpYmVybmF0ZVByb2plY3QgcHJvamVjdCkgewogICAgICAgIFNvcnRlZFNldDxQaGFzZVRlbXBsYXRlPiBwaGFzZVRlbXBsYXRlcyA9IHByb2plY3QuZ2V0UGhhc2VUZW1wbGF0ZXMoKTsKICAgICAgICBpbnQgaSA9IDE7CiAgICAgICAgZm9yIChQaGFzZVRlbXBsYXRlIHB0IDogcGhhc2VUZW1wbGF0ZXMpIHsKICAgICAgICAgICAgaW50IHJhbmRvID0gcmFuZEludCgwLCAxMDApOwogICAgICAgICAgICBpKys7CiAgICAgICAgICAgIFN0cmluZyBjcmVhdGVQVCA9ICJwdCIgKyBpICsgIiA9IFBoYXNlVGVtcGxhdGUuY3JlYXRlKHBoYXNlX3R5cGU6ICdQcm9kdWN0aW9uJyxcbiIgKwogICAgICAgICAgICAgICAgICAgICIgIG5hbWU6ICciICsgcHQuZ2V0TmFtZSgpICsgIicsXG4iICsKICAgICAgICAgICAgICAgICAgICAiICBwaGFzZV9vcmRlcjogIiArIHJhbmRvICsgIixcbiIgKwogICAgICAgICAgICAgICAgICAgICIgIHByb2plY3Q6IHByb2plY3RcbiIgKwogICAgICAgICAgICAgICAgICAgICIpIjsKICAgICAgICAgICAgd3JpdGVPdXQoY3JlYXRlUFQpOwogICAgICAgIH0KICAgIH0K</text>
