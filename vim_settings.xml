@@ -12,6 +12,11 @@
         <mark key="]" line="82" column="22" />
         <mark key="." line="82" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/resources/spy.properties" timestamp="1495991112851">
+        <mark key="]" line="195" column="9" />
+        <mark key="^" line="195" column="9" />
+        <mark key="." line="195" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/entity/util/submission/AssetSubmission.java" timestamp="1495638365642">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -22,6 +27,12 @@
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/resources/config/spring/yarboil.xml" timestamp="1494970252102">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="9" column="3" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew/projDump3000.sh" timestamp="1495381842065">
         <mark key="[" line="0" column="0" />
       </file>
@@ -30,9 +41,15 @@
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/dao/projection/PhaseProjection.java" timestamp="1495989967811" />
-      <file name="/Dummy.txt" timestamp="1495989932734">
+      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/dao/projection/PhaseProjection.java" timestamp="1495990968085" />
+      <file name="/Dummy.txt" timestamp="1495991290846">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/util/ServerProperties.java" timestamp="1494970141983">
+        <mark key="[" line="37" column="17" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="50" column="35" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/ui/enums/ReportColumnType.java" timestamp="1495986696297" />
       <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/dao/hibernate/HibernatePhaseDAO.java" timestamp="1495989463513">
@@ -58,6 +75,12 @@
         <mark key="]" line="75" column="56" />
         <mark key="." line="75" column="56" />
       </file>
+      <file name="$USER_HOME$/dev/pitcrew/src/main/resources/config/spring/jdbc.properties" timestamp="1495991318520">
+        <mark key="[" line="5" column="44" />
+        <mark key="]" line="5" column="45" />
+        <mark key="^" line="12" column="66" />
+        <mark key="." line="5" column="45" />
+      </file>
       <file name="$USER_HOME$/dev/pitcrew/src/main/webapp/WEB-INF/jsp/production/report/reportRow.jspx" timestamp="1495987436646">
         <mark key="[" line="549" column="79" />
       </file>
@@ -71,6 +94,9 @@
       </file>
       <file name="$USER_HOME$/dev/pitcrew/src/main/webapp/WEB-INF/jsp/production/report/report.jspx" timestamp="1495987166474">
         <mark key="[" line="83" column="36" />
+      </file>
+      <file name="$USER_HOME$/dev/pitcrew/lib/p6spy-3.0.0/spy.properties" timestamp="1495991023646">
+        <mark key="[" line="183" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1495989993729">
         <mark key="[" line="0" column="0" />
