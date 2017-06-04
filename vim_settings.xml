@@ -23,10 +23,11 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/util/Sprung.java" timestamp="1495841904596">
-        <mark key="[" line="72" column="24" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/util/Sprung.java" timestamp="1496596612008">
+        <mark key="[" line="73" column="0" />
+        <mark key="]" line="188" column="0" />
+        <mark key="." line="188" column="0" />
+        <mark key="^" line="188" column="0" />
       </file>
       <file name="$USER_HOME$/dev/pitcrew/src/main/resources/config/spring/yarboil.xml" timestamp="1494970252102">
         <mark key="[" line="13" column="0" />
@@ -37,12 +38,10 @@
       <file name="$USER_HOME$/dev/pitcrew/projDump3000.sh" timestamp="1495381842065">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/ui/production/ReportAction.java" timestamp="1495989417810" />
       <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/util/DBlaster.java" timestamp="1495842064009">
         <mark key="]" line="98" column="0" />
         <mark key="." line="98" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/dao/projection/PhaseProjection.java" timestamp="1495990968085" />
       <file name="/Dummy.txt" timestamp="1495995038628">
         <mark key="[" line="0" column="0" />
       </file>
@@ -52,7 +51,6 @@
         <mark key="^" line="50" column="35" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/ui/enums/ReportColumnType.java" timestamp="1495986696297" />
       <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/dao/hibernate/HibernatePhaseDAO.java" timestamp="1495989463513">
         <mark key="[" line="2276" column="0" />
       </file>
@@ -61,13 +59,11 @@
         <mark key="]" line="10" column="44" />
         <mark key="." line="10" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/dao/projection/ProjectDirectorPhaseProjection.java" timestamp="1495989535510" />
       <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/dao/hibernate/HibernateAnnouncementDAO.java" timestamp="1494970581764">
         <mark key="[" line="44" column="0" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/pitcrew/src/main/java/com/liquiddevelopment/pitcrew/dao/projection/ManagerPhaseProjection.java" timestamp="1495989518441" />
       <file name="$USER_HOME$/dev/pitcrew/src/main/webapp/WEB-INF/jsp/production/report/reportRowTitle.jspx" timestamp="1495639215553">
         <mark key="[" line="157" column="78" />
       </file>
